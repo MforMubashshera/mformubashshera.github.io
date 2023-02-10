@@ -1,2 +1,4 @@
-# NazifaM_homepage
-My website
+# mpage - [MU SH]’s homepage
+
+> Landing page for all things Mubashshera Shemonti 
+
