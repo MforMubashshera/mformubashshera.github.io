@@ -1,5 +1,4 @@
-# *[MU SH]’s homepage* 
+![M](../assets/m_icon.png)
 
-## *mpage* 
-
-> Landing page for all things Mubashshera Shemonti 
+This is Shemonti's personal website at [mu-sh.studio](https://mu-sh.studio). 
+It is hosted on [GitHub Pages](https://pages.github.com/).
