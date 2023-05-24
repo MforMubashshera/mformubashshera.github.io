@@ -1,0 +1,32 @@
+/* static/style.css */
+
+/* Common Styles */
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Noto Sans', sans-serif;
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    outline: none;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    background-color: #FFFFFF;
+    margin: 3.5rem;
+    border-radius: 0.5rem;
+    overflow: hidden;
+}
+
+/* End of Common styles */
