@@ -5,7 +5,7 @@
 * {
     margin: 0;
     padding: 0;
-    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Cormorant Garamond', serif;
     list-style-type: none;
     text-decoration: none;
     box-sizing: border-box;
@@ -16,6 +16,10 @@ html {
     font-size: 62.5%;
 }
 
+body {
+    background-color: #1e1e1e;
+}
+
 .center {
     display: flex;
     justify-content: center;
@@ -23,10 +27,57 @@ html {
 }
 
 .container {
-    background-color: #FFFFFF;
+    background-color: #414141;
     margin: 3.5rem;
     border-radius: 0.5rem;
     overflow: hidden;
 }
 
 /* End of Common styles */
+
+/* Card */
+
+.card-wrapper {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.card {
+    width: 35rem;
+    position: relative;
+    perspective: 150rem;
+    text-align: center;
+    background-color: #1e1e1e;
+    border: none;
+    border-radius: 0.5rem;
+    margin: 5rem;
+}
+
+.card-text {
+    font-size: 2rem;
+    font-weight: 700;
+    padding: 0.5rem;
+    color: #0babab;
+    margin: 2.5rem;
+}
+
+/* End of Card */
+
+.name-card {
+    width: 35rem;
+    position: relative;
+    perspective: 150rem;
+    text-align: left;
+    background-color: #1e1e1e;
+    border: none;
+    border-radius: 0.5rem;
+    margin: 2.5rem;
+}
+
+.name-text {
+    font-size: 2rem;
+    font-weight: 700;
+    padding: 0.5rem;
+    color: #76fbff;
+    margin: 1.5rem;
+}
