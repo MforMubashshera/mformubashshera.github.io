@@ -62,22 +62,3 @@ body {
 }
 
 /* End of Card */
-
-.name-card {
-    width: 35rem;
-    position: relative;
-    perspective: 150rem;
-    text-align: left;
-    background-color: #1e1e1e;
-    border: none;
-    border-radius: 0.5rem;
-    margin: 2.5rem;
-}
-
-.name-text {
-    font-size: 2rem;
-    font-weight: 700;
-    padding: 0.5rem;
-    color: #76fbff;
-    margin: 1.5rem;
-}
