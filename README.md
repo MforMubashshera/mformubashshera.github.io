@@ -1,8 +1,6 @@
-# This is Mubashshera's personal website at [mu-sh.studio](https://mu-sh.studio)
+# This is Mubashshera's personal website at [mu-sh.studio](https://mu-sh.studio) 
 
-*Hosted on [GitHub Pages](https://pages.github.com/)*
-
-Learn more 
+*Hosted on [GitHub Pages](https://pages.github.com/). Learn more:* 
 
 * [Creating a GitHub Pages site](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
 
