@@ -13,11 +13,11 @@
 }
 
 html {
-    font-size: 62.5%;
+    font-size: 75%;
 }
 
 body {
-    background-color: #1e1e1e;
+    background-color: #444444;
 }
 
 .center {
@@ -33,9 +33,95 @@ body {
     overflow: hidden;
 }
 
+a,
+a.visited {
+    color: inherit;
+    text-decoration: underline;
+}
+
+h1,
+h2,
+h3 {
+    line-height: 1.2;
+    font-weight: 700;
+}
+
+h1 {
+    font-size: 2rem;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+h2 {
+    font-size: 1.5rem;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+h3 {
+    font-size: 1rem;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+img {
+    max-width: 100%;
+}
+
+p {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+.page-cover-image {
+    display: block;
+    object-fit: cover;
+    width: 100%;
+    max-height: 30vh;
+}
+
+.page-title {
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.page-description {
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.block-color-yellow {
+    color: #fdecc8;
+    fill: #fdedc9;
+}
+
+.block-color-aquamarine {
+    color: #d8fff2;
+    fill: #d8fff2;
+}
+
 /* End of Common styles */
 
 /* Card */
+
+.column-list {
+    display: flex;
+    justify-content: space-between;
+}
+
+.column {
+    padding: 0 1em;
+}
+
+.column:first-child {
+    padding-left: 0;
+}
+
+.column:last-child {
+    padding-right: 0;
+}
 
 .card-wrapper {
     display: flex;
@@ -43,21 +129,18 @@ body {
 }
 
 .card {
-    width: 35rem;
     position: relative;
     perspective: 150rem;
-    text-align: center;
-    background-color: #1e1e1e;
     border: none;
     border-radius: 0.5rem;
-    margin: 5rem;
+    margin: 2.5rem;
 }
 
 .card-text {
     font-size: 2rem;
     font-weight: 700;
     padding: 0.5rem;
-    color: #0babab;
+    color: #dddddd;
     margin: 2.5rem;
 }
 
