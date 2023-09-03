@@ -14,7 +14,17 @@
 
 [Home]: <https://mu-sh.studio> "Homepage | [mu-sh]rooms"
 
-[About]: <https://mu-sh.studio/about> "About | [mu-sh]rooms"
+[About]: <https://mu-sh.studio/about> "About | [mu-sh]rooms" 
+
+[README]: <https://github.com/MforMubashshera/mformubashshera.github.io/blob/main/README.md> "README.md"
+
+[INDEX]: <https://github.com/MforMubashshera/mformubashshera.github.io/blob/main/index.html> "index.html"
+
+[STYLE]: <https://github.com/MforMubashshera/mformubashshera.github.io/blob/main/style.css> "style.css"
+
+[ICON]: <> "m_icon.png"
+
+[COVER IMAGE]: <> "esa-hubble_cats-paw-nebula.webp"
 
 ## [About](#about)
 
@@ -27,9 +37,9 @@ The portfolio page includes my resume — also showcases my collaborative and so
 
 ## [Repo assets](#assets)
 
-* [README.md](README.md) — top level README of this repo
-* [index.html](index.html) — landing page
-* [style.css](style.css) — stylesheet
+* [README] — top level README of this repo
+* [INDEX] — landing page
+* [STYLE] — stylesheet
 
 ***
 
