@@ -22,9 +22,9 @@
 
 [STYLE]: <https://github.com/MforMubashshera/mformubashshera.github.io/blob/main/style.css> "style.css"
 
-[ICON]: <> "m_icon.png"
+[ICON]: <https://github.com/MforMubashshera/mformubashshera.github.io/blob/main/m_icon.png> "m_icon.png"
 
-[COVER IMAGE]: <> "esa-hubble_cats-paw-nebula.webp"
+[COVER IMAGE]: <https://github.com/MforMubashshera/mformubashshera.github.io/blob/main/esa-hubble_cats-paw-nebula.webp> "esa-hubble_cats-paw-nebula.webp"
 
 ## [About](#about)
 
@@ -39,7 +39,9 @@ The portfolio page includes my resume — also showcases my collaborative and so
 
 * [README] — top level README of this repo
 * [INDEX] — landing page
-* [STYLE] — stylesheet
+* [STYLE] — stylesheet 
+* [ICON] — shortcut favicon
+* [COVER IMAGE] — page cover image
 
 ***
 
