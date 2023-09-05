@@ -47,25 +47,26 @@ h3 {
 }
 
 h1 {
-    font-size: 2rem;
+    font-size: 3.5rem;
     margin-top: 1.5rem;
     margin-bottom: 1.5rem;
 }
 
 h2 {
-    font-size: 1.5rem;
+    font-size: 3rem;
     margin-top: 1.5rem;
     margin-bottom: 1.5rem;
 }
 
 h3 {
-    font-size: 1rem;
+    font-size: 2.5rem;
     margin-top: 1.5rem;
     margin-bottom: 1.5rem;
 }
 
 img {
     max-width: 100%;
+    display: block;
 }
 
 p {
@@ -88,6 +89,8 @@ p {
 }
 
 .page-description {
+    font-size: 2.5rem;
+    font-weight: 700;
     margin-top: 1.5rem;
     margin-bottom: 1.5rem;
 }
@@ -142,7 +145,7 @@ p {
 }
 
 .card-text {
-    font-size: 2rem;
+    font-size: 2.5rem;
     font-weight: 700;
     padding: 0.5rem;
     color: #dddddd;
