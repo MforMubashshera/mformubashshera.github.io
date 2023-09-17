@@ -2,7 +2,15 @@
 <urlset
       xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 <url>
-<loc>https://mu-sh.studio/index.html</loc>
+<loc>https://mu-sh.studio</loc>
+<xhtml:link rel="canonical" href="https://mu-sh.studio/index.html" />
+</url>
+<url>
+<loc>https://mu-sh.studio</loc>
+<xhtml:link rel="canonical" href="https://www.mu-sh.studio" />
+</url>
+<url>
+<loc>https://mu-sh.studio</loc>
 <xhtml:link rel="canonical" href="https://www.mu-sh.studio/index.html" />
 </url>
 </urlset>
