@@ -1,0 +1,190 @@
+/* style.css */
+
+/* Common Styles */
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Cormorant Garamond', serif;
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    outline: none;
+}
+
+html {
+    font-size: 75%;
+}
+
+body {
+    background-color: #E8FFFF;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a,
+a.visited {
+    color: inherit;
+    text-decoration: underline;
+}
+
+h1,
+h2,
+h3 {
+    line-height: 1.5;
+    font-weight: bolder;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+h1 {
+    font-size: 3.5rem;
+}
+
+h2 {
+    font-size: 3rem;
+}
+
+h3 {
+    font-size: 2.5rem;
+}
+
+p {
+    font-size: 2rem;
+    font-weight: 700;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+ul {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+li {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
+
+.block-color-yellow {
+    color: #fdecc8;
+    fill: #fdedc9;
+}
+
+.block-color-aquamarine {
+    color: #99D0D0;
+    fill: #d8fff2;
+}
+
+.block-color-white {
+    color: #ffffff;
+    fill: #feebea;
+}
+
+.block-color-dark-grey {
+    color: #414141;
+    fill: #414141;
+}
+
+
+/* End of Common styles */
+
+/* Navigation */
+
+.nav {
+    width: 100%;
+    position: absolute;
+    margin-top: 0;
+    top: 0;
+}
+
+.nav-bar-wrapper {
+    display: flex
+}
+
+.nav-top {
+    background-color: #393939;
+}
+
+.nav-bottom {
+    height: 12rem
+}
+
+.page-title {
+    height: 4rem;
+    display: flex;
+    align-items: center;
+    opacity: 1;
+    padding: 2rem;
+}
+
+.page-description {
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.page-cover-image {
+    display: block;
+    object-fit: cover;
+    width: 100%;
+    max-height: 30vh;
+}
+
+.container {
+    background-color: #414141;
+    margin: 3.5rem;
+    border-radius: 0.5rem;
+    overflow: hidden;
+}
+
+/* Card */
+
+.column-list {
+    display: flex;
+    justify-content: space-between;
+}
+
+.column {
+    padding: 0 1em;
+}
+
+.column:first-child {
+    padding-left: 0;
+}
+
+.column:last-child {
+    padding-right: 0;
+}
+
+.card-wrapper {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.card {
+    position: relative;
+    perspective: 150rem;
+    border: none;
+    border-radius: 0.5rem;
+    margin: 2.5rem;
+}
+
+.card-text {
+    font-size: 2.5rem;
+    font-weight: 700;
+    padding: 0.5rem;
+    margin: 2.5rem;
+}
+
+/* End of Card */
