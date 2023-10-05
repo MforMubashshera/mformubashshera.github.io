@@ -1,1 +1,0 @@
-/**/ typeof CoralCount.setCount === 'function' && CoralCount.setCount({"ref":"aHR0cHM6Ly93d3cudGhlY3V0LmNvbS9hcnRpY2xlL2RpYW5uZS1mZWluc3RlaW4tYWJvcnRpb24tZ3VuLWNpdmlsLXJpZ2h0cy5odG1s","countHtml":"<span class=\"coral-count-number\">COMMENT_COUNT</span>","textHtml":"<span class=\"coral-count-text\">Comments</span>","count":116,"id":"a258a6f4-896f-4407-b3d0-c258abe1411a"});
