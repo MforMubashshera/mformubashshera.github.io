@@ -1,4 +1,16 @@
-[mu-sh.studio]: <https://mu-sh.studio>
+[HOME]: <https://mu-sh.studio>
+
+[About]: <https://mu-sh.studio/about>
+
+[README]: <https://github.com/MforMubashshera/mformubashshera.github.io/blob/main/README.md> "README.md"
+
+[INDEX]: <https://github.com/MforMubashshera/mformubashshera.github.io/blob/main/index.html> "index.html"
+
+[STYLE]: <https://github.com/MforMubashshera/mformubashshera.github.io/blob/main/style.css> "style.css"
+
+[ICON]: <https://github.com/MforMubashshera/mformubashshera.github.io/blob/main/m_icon.png> "m_icon.png"
+
+[COVER IMAGE]: <https://github.com/MforMubashshera/mformubashshera.github.io/blob/main/esa-hubble_cats-paw-nebula.webp> "esa-hubble_cats-paw-nebula.webp"
 
 [GitHub Pages]: <https://pages.github.com/>
 
@@ -14,33 +26,19 @@
 
 [Google Search Console Dashboard]: <https://search.google.com/search-console>
 
-[Home]: <https://mu-sh.studio>
+![Banner](/index_files/CygnusLoopSegment.webp)
 
-[About]: <https://mu-sh.studio/about>
+*Banner credit: NASA, ESA, Ravi Sankrit (STScI)*
 
-[README]: <https://github.com/MforMubashshera/mformubashshera.github.io/blob/main/README.md> "README.md"
+> Table of Contents
+- [mu-sh.studio](#mu-shstudio)
+	- [About](#about)
+	- [Pages](#pages)
+	- [Assets](#assets)
 
-[INDEX]: <https://github.com/MforMubashshera/mformubashshera.github.io/blob/main/index.html> "index.html"
+# mu-sh.studio
 
-[STYLE]: <https://github.com/MforMubashshera/mformubashshera.github.io/blob/main/style.css> "style.css"
-
-[ICON]: <https://github.com/MforMubashshera/mformubashshera.github.io/blob/main/m_icon.png> "m_icon.png"
-
-[COVER IMAGE]: <https://github.com/MforMubashshera/mformubashshera.github.io/blob/main/esa-hubble_cats-paw-nebula.webp> "esa-hubble_cats-paw-nebula.webp"
-
-![Banner](index_files/esa-hubble_cats-paw-nebula.webp)
-
-> Table of contents
-* [Mubashshera's portfolio at [mu-sh.studio](https://mu-sh.studio)](#mubashsheras-portfolio-at-mu-shstudio)
-	* [About The Project](#about-the-project)
-	* [Pages](#pages)
-	* [Repo assets](#repo-assets)
-
-***
-
-# Mubashshera's portfolio at [mu-sh.studio]
-
-## About The Project
+## About
 
 The portfolio page includes my resume — also showcases my collaborative and solo projects.
 
@@ -49,7 +47,7 @@ The portfolio page includes my resume — also showcases my collaborative and so
 * [Home] — landing page
 * [About] — about me
 
-## Repo assets
+## Assets
 
 * [README] — top level README of this repo
 * [INDEX] — landing page
@@ -72,5 +70,3 @@ The portfolio page includes my resume — also showcases my collaborative and so
 * [Getting started with Search Console]
 
 * [Google Search Console Dashboard]
-
-***
