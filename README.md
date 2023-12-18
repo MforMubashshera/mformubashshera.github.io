@@ -26,9 +26,9 @@
 
 [Google Search Console Dashboard]: <https://search.google.com/search-console>
 
-![Banner](/index_files/CygnusLoopSegment.webp)
+![Banner](/assets/ESA_HUBBLE_CatsPawNebula.webp)
 
-*Banner credit: NASA, ESA, Ravi Sankrit (STScI)*
+*Banner credit: S. Lipinski/NASA & ESA*
 
 > Table of Contents
 - [mu-sh.studio](#mu-shstudio)
