@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://mu-sh.studio/sitemap.xml
