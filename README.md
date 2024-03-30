@@ -1,12 +1,6 @@
-[HOME]: <https://mu-sh.studio>
-
-[About]: <https://mu-sh.studio/about>
+[HOME]: <https://>
 
 [README]: <https://github.com/MforMubashshera/mformubashshera.github.io/blob/main/README.md> "README.md"
-
-[INDEX]: <https://github.com/MforMubashshera/mformubashshera.github.io/blob/main/index.html> "index.html"
-
-[STYLE]: <https://github.com/MforMubashshera/mformubashshera.github.io/blob/main/style.css> "style.css"
 
 [ICON]: <https://github.com/MforMubashshera/mformubashshera.github.io/blob/main/m_icon.png> "m_icon.png"
 
@@ -35,31 +29,6 @@
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 > Table of Contents
-- [mu-sh.studio](#mu-shstudio)
-	- [About](#about)
-	- [Pages](#pages)
-	- [Assets](#assets)
-
-***
-
-# mu-sh.studio
-
-## About
-
-The portfolio page includes my resume — also showcases my collaborative and solo projects.
-
-## Pages
-
-* [Home] — landing page
-* [About] — about me
-
-## Assets
-
-* [README] — top level README of this repo
-* [INDEX] — landing page
-* [STYLE] — stylesheet
-* [ICON] — shortcut favicon
-* [COVER IMAGE] — page cover image
 
 ***
 
@@ -81,4 +50,4 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa] 
 
-© 2023 Nazifa M SHEMONTI
+© 2024 *Nazifa M SHEMONTI*
